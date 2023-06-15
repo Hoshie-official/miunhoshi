@@ -1,7 +1,7 @@
 import time
 
 # 等待时间（以秒为单位）
-wait_time = 45
+wait_time = 50
 
 # 定义函数以进行倒计时
 def countdown(t):
